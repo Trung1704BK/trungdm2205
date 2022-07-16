@@ -1,0 +1,13 @@
+.font-item {
+  position: relative;
+  bottom: 5px;
+  font-size: 20px;
+}
+
+.delete-job {
+  color: red;
+  margin-left: 5px;
+  position: absolute;
+  font-weight: 100;
+  cursor: pointer;
+}

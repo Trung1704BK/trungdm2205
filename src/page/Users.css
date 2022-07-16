@@ -1,0 +1,14 @@
+ul > li > a {
+  margin-right: 20px;
+}
+ul > li > a:hover {
+  cursor: pointer;
+}
+button.active {
+  background-color: red;
+  color: #fff;
+}
+
+.pagination button {
+  margin-right: 10px;
+}
